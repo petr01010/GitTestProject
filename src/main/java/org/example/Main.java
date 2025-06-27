@@ -10,5 +10,6 @@ public class Main {
         System.out.println("F");
         System.out.println("Z");
         System.out.println("H");
+        System.out.println("Cherry");
     }
 }
